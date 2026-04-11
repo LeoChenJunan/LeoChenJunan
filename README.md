@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Leo Chen
 
-🎓 資訊數學系（Information Mathematics）
+🎓 資訊數學系（Information Mathematics）& 輔系資訊工程系(Department of Computer Science and Information Engineering)
 💻 專注於：Machine Learning / Computer Vision / Game Development
 
 ---
