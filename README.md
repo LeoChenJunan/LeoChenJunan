@@ -139,6 +139,6 @@ Git GitHub Linux VirtualBox
 
 ## 聯絡方式
 
-GitHub https://github.com/LeoChenJunan
-gmail leochenjunan@gmail.com
+- GitHub https://github.com/LeoChenJunan
+- gmail leochenjunan@gmail.com
 
