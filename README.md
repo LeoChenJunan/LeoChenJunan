@@ -129,11 +129,11 @@ Git GitHub Linux VirtualBox
 
 ## 未來職涯方向
 
-AI Engineer
-Machine Learning Engineer
-Software Engineer
-Computer Vision Engineer
-...
+- AI Engineer
+- Machine Learning Engineer
+- Software Engineer
+- Computer Vision Engineer
+- ...
 
 ---
 
