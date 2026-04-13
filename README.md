@@ -28,6 +28,9 @@
 
 技術重點包含 Model Design 實驗控制 Performance Analysis 與 PyTorch 實作
 
+專案連結
+https://github.com/LeoChenJunan/cnn-residual-comparison
+
 ---
 
 ### OpenGL 迷宮視覺化與路徑搜尋系統 Computer Graphics 與 Algorithms
@@ -41,6 +44,9 @@
 
 技術重點包含 OpenGL Algorithm Visualization DFS BFS
 
+專案連結
+https://github.com/LeoChenJunan/computer-graphics-opengl-maze-visualization
+
 ---
 
 ### YouTube 資料分析系統 Web 與 Data Engineering
@@ -53,6 +59,9 @@
 使用 Matplotlib 進行資料分析與視覺化
 
 完成從 Data Collection 到 Data Analysis 與 Presentation 的完整流程
+
+專案連結
+https://github.com/LeoChenJunan/-Python-YouTube-Web-
 
 ---
 
@@ -130,5 +139,6 @@ Computer Vision Engineer
 
 ## 聯絡方式
 
-GitHub [https://github.com/LeoChenJunan](https://github.com/LeoChenJunan)
+GitHub https://github.com/LeoChenJunan
+gmail leochenjunan@gmail.com
 
