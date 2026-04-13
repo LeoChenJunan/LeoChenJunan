@@ -56,16 +56,37 @@
 
 ---
 
-### Unity 遊戲開發 Game 與 Systems
+### Unity 3D 太空射擊遊戲 Game Development
 
-使用 Unity 開發 3D 遊戲與互動系統
+即時操作射擊遊戲，建立完整遊戲循環並整合射擊 物理碰撞與 UI 系統。
 
-實作 Rigidbody 物理碰撞與互動機制
-設計 Player Controller 與 Camera System
-實作射擊與蓄力機制
-具備 Android 介面延伸開發經驗
+實作玩家飛船控制與移動系統
+建構射擊系統與子彈生成機制
+整合 Rigidbody 與碰撞判定系統
+加入音效與背景音樂提升遊戲體驗
+包含 Android UI 延伸設計
 
-技術重點包含 Game Loop Physics System Input System 與 C Sharp
+技術重點包含 Game Loop Physics System Collision System C Sharp
+
+專案連結
+https://github.com/LeoChenJunan/Unity-3D-Space-Shooter-Game
+
+---
+
+### Unity 3D 撞球模擬與物理互動系統 Game Development
+
+結合 Rigidbody 物理運算 玩家控制 蓄力機制與射擊系統，用於展示多模組整合與遊戲開發能力。
+
+使用 Unity 2022 開發環境
+透過 Rigidbody 與 Collider 實作球體碰撞與運動模擬
+設計玩家控制與視角操作系統
+實作蓄力機制以控制擊球力道
+整合射擊系統以擴展互動玩法
+
+技術重點包含 Physics System Game Mechanics Input System C Sharp
+
+專案連結
+https://github.com/LeoChenJunan/unity-3d-player-controller
 
 ---
 
