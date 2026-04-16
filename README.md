@@ -37,7 +37,7 @@ https://github.com/LeoChenJunan/cnn-residual-comparison
 
 使用 OpenGL 實作互動式迷宮與路徑搜尋視覺化系統
 
-結合 Depth First Search 與 Breadth First Search 進行路徑探索
+使用 Depth First Search 進行路徑探索
 即時視覺化搜尋與回溯過程
 實作迷宮編輯與互動功能
 強化演算法與圖形渲染整合能力
