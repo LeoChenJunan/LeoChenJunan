@@ -1,6 +1,6 @@
 # 👋 你好，我是 LeoChenJunan
 
-就讀於資訊數學學系（Information Mathematics），並輔修資訊工程學系（Computer Science and Information Engineering），專注於 Machine Learning、深度學習（Deep Learning）、Computer Vision、軟體開發、資料爬取與資料處理（Web Crawling & Data Processing） 以及遊戲開發。
+目前就讀於資訊數學學系（Information Mathematics），並輔修資訊工程學系（Computer Science and Information Engineering），專注於 Machine Learning、深度學習（Deep Learning）、Computer Vision、軟體開發、資料爬取與資料處理（Web Crawling & Data Processing） 以及遊戲開發。
 
 
 ---
@@ -9,7 +9,7 @@
 
 我具備資訊數學背景，擅長以數學思維進行問題建模，並將抽象問題轉換為可實作的程式設計與系統架構。
 
-目前主要專注於人工智慧與軟體系統開發，包含深度學習模型設計 Computer Vision 應用，以及圖形與互動系統開發（OpenGL 與 Unity）。
+目前主要專注於人工智慧與軟體系統開發，涵蓋深度學習模型設計、Computer Vision 應用，以及資料擷取與資料處理流程建構（包含動態網頁爬蟲與資料分析），同時亦具備圖形與互動系統開發經驗（OpenGL 與 Unity）。
 
 透過多個專案實作，我累積了從演算法設計 模型訓練到系統整合的完整開發能力，並持續提升工程化能力與軟體架構設計能力。
 
