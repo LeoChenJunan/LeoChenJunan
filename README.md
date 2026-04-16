@@ -1,7 +1,7 @@
 # 👋 你好，我是 LeoChenJunan
 
 就讀於資訊數學學系（Information Mathematics），並輔修資訊工程學系（Computer Science and Information Engineering）
-專注於 Machine Learning 深度學習 Computer Vision 軟體開發與遊戲開發
+專注於 Machine Learning 深度學習 Computer Vision 軟體開發 爬蟲與遊戲開發
 
 ---
 
