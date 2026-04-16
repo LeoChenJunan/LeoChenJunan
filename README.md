@@ -42,7 +42,7 @@ https://github.com/LeoChenJunan/cnn-residual-comparison
 實作迷宮編輯與互動功能
 強化演算法與圖形渲染整合能力
 
-技術重點包含 OpenGL Algorithm Visualization DFS BFS
+技術重點包含 OpenGL Algorithm Visualization DFS 
 
 專案連結
 https://github.com/LeoChenJunan/computer-graphics-opengl-maze-visualization
